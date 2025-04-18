@@ -2,12 +2,11 @@
    ```bash
    git clone [https://github.com/your-username/magic-8-ball.git](https://github.com/scapegoatdekma/FunIsocaedr.git)
    cd magic-8-ball
-Ставишь зависимости (не проебись)
 
-npm i
+Ставишь зависимости (не проебись) 
 Запускаешь SASS (чтобы стили не криво выглядели)
-
       ```bash
+      nim i
       npm run sass-watch
       Открываешь index.html и спрашиваешь свою жалкую судьбу
 
