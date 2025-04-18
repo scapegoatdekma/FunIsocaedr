@@ -1,0 +1,17 @@
+{
+  "name": "predictorball",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass-watch": "sass --watch ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.86.3",
+    "three": "^0.175.0"
+  }
+}
